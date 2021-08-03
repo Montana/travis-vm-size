@@ -1,2 +1,2 @@
 # travis-vm-size
-Travis CI VM Size Test 
+Travis CI VM Size Test: Extra Large 
